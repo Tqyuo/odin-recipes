@@ -1,6 +1,7 @@
 This is my first project in the Odin Project course. I have prior HTML and CSS experience. Not too much but I am comfortable with the syntax and many concepts.
 This will be a great refresher and test of knowledge.
 I am super excited to continue learning 
+Using this project to learn Git and the importance of valuable Commit messages.
 
 
 
