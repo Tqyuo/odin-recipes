@@ -3,7 +3,7 @@ This will be a great refresher and test of knowledge.
 I am super excited to continue learning 
 Using this project to learn Git and the importance of valuable Commit messages.
 
-
+EDIT: Not going to use any CSS on this project. I will come back to it later after the Odin Project teaches me more CSS.
 
 Assignment:
 
